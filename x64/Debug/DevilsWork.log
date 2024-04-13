@@ -1,0 +1,5 @@
+﻿  DevilsWork.cpp
+D:\c++\DevilsWork\DevilsWork\CreateFile.h(27,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\c++\DevilsWork\DevilsWork\CreateFile.h(27,25): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\c++\DevilsWork\DevilsWork\CreateFile.h(13): warning C4715: BruteFolder: значение возвращается не при всех путях выполнения
+  DevilsWork.vcxproj -> D:\c++\DevilsWork\x64\Debug\DevilsWork.exe
